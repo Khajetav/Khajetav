@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hey
+This is where I store various oddities and quality of life things that I code mostly for myself
+
+![Khajetav's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Khajetav&layout=compact)
+
+## Languages I have worked with:
+- C# (various Windows Forms applications, console test applications, multithreading)
+- HTML, CSS, JS (websites, various nodejs projects)
+- Python (making custom AI learning models with Tensorflow and Keras)
 
 <!--
 **Khajetav/Khajetav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
