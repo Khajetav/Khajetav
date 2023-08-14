@@ -8,7 +8,7 @@ This is where I store various oddities and quality of life things that I code mo
 - HTML, CSS, JS (websites, various nodejs projects)
 - Python (making custom AI learning models with Tensorflow and Keras)
 
-[Khajetav](https://discord.com/users/649225684622770209)
+@khajetav on Discord (and everywhere else)
 <!--
 **Khajetav/Khajetav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
