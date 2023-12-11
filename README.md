@@ -1,7 +1,9 @@
 # Hey
 This is where I store various oddities and quality of life things that I code mostly for myself
 
-![Khajetav's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Khajetav&layout=compact)
+![Khajetav's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Khajetav&layout=compact&hide=mathematica,hlsl,batchfile,shaderlab)
+
+
 
 ## Languages I have worked with:
 - C# (various Windows Forms applications, console test applications, multithreading)
