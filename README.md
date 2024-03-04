@@ -9,8 +9,7 @@ This is where I store various oddities and quality of life things that I code mo
 - C# (various Windows Forms applications, console test applications, multithreading)
 - HTML, CSS, JS (websites, various nodejs projects)
 - Python (making custom AI learning models with Tensorflow and Keras)
-
-@khajetav on Discord (and everywhere else)
+- SQL (MySQL, Microsoft SQL Server)
 <!--
 **Khajetav/Khajetav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
